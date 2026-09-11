@@ -35,6 +35,7 @@ Tools that generate a complete frontend, backend, and data model from natural-la
 - [Playcode](https://playcode.io/ai-website-builder) — Prompt-to-production app builder where Playcode AI builds the interface, backend, and data model, then Playcode Cloud runs it with hosting, a database, and HTTPS.
 - [Replit Agent](https://replit.com/products/agent) — AI agent inside the Replit cloud IDE that writes code, installs dependencies, provisions a database, and deploys apps from prompts.
 - [Softgen](https://softgen.ai) — Conversational builder that generates full-stack Next.js apps with Firebase or Supabase, including auth, database, payments, and hosting.
+- [Taskade Genesis](https://www.taskade.com/create) — AI builder that generates live web apps (portals, CRMs, dashboards) from a prompt, with agents, automations, and a hosted MCP server.
 - [Tempo](https://www.tempo.new) — AI builder that generates and edits React code in a real codebase with a visual drag-and-drop editor, GitHub push, and VS Code editing.
 - [Trickle](https://trickle.so) — Agentic-canvas builder that generates websites, web apps, forms, and internal tools from prompts with a built-in database and serverless backend.
 - [v0 by Vercel](https://v0.app) — Vercel's tool that generates Next.js, React, Tailwind, and shadcn/ui frontends and full-stack apps via a sandbox runtime.
