@@ -38,6 +38,7 @@ Tools that generate a complete frontend, backend, and data model from natural-la
 - [Tempo](https://www.tempo.new) — AI builder that generates and edits React code in a real codebase with a visual drag-and-drop editor, GitHub push, and VS Code editing.
 - [Trickle](https://trickle.so) — Agentic-canvas builder that generates websites, web apps, forms, and internal tools from prompts with a built-in database and serverless backend.
 - [v0 by Vercel](https://v0.app) — Vercel's tool that generates Next.js, React, Tailwind, and shadcn/ui frontends and full-stack apps via a sandbox runtime.
+- [Vibld](https://vibld.com) — Open-source AI builder that generates a React, TypeScript, and Vite web app from a prompt, with publishing to GitHub, Cloudflare, or Docker.
 
 ## Mobile App Builders
 
