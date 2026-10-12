@@ -31,6 +31,7 @@ Tools that generate a complete frontend, backend, and data model from natural-la
 - [Lazy AI](https://getlazy.ai) — Prompt-based builder for internal tools, APIs, and automations that generates frontend and backend web apps and deploys them to the cloud.
 - [Lovable](https://lovable.dev) — AI builder that generates full-stack web apps from natural-language prompts, producing a React and TypeScript frontend with a backend, database, auth, and hosting.
 - [Marblism](https://ai.marblism.com) — AI builder that generates full-stack web apps from prompts.
+- [Massvai](https://massvai.com) — AI builder that generates full-stack Next.js and TypeScript apps from prompts with Supabase auth and database, Stripe, GitHub sync, live preview, and one-click Vercel deployment.
 - [Mocha](https://getmocha.com) — AI builder that generates full-stack web apps with UI, backend, auth, database, and payments from text or images, with one-click publish and code export.
 - [Playcode](https://playcode.io/ai-website-builder) — Prompt-to-production app builder where Playcode AI builds the interface, backend, and data model, then Playcode Cloud runs it with hosting, a database, and HTTPS.
 - [Replit Agent](https://replit.com/products/agent) — AI agent inside the Replit cloud IDE that writes code, installs dependencies, provisions a database, and deploys apps from prompts.
